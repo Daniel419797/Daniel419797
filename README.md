@@ -1,77 +1,59 @@
-<div align="center">
+# Daniel Praise
 
-# Hi, I'm Daniel
+**Full-Stack Developer | Python | Web3 | AI Systems**
 
-**Full-Stack Developer | Web3 | AI Systems | Product Engineering**
+Final-year Computer Science student at FUPRE. I build web applications, backend services, developer tools and blockchain products. I work mainly with TypeScript and Python and I am comfortable taking a product from architecture and implementation through testing and deployment.
 
-[Portfolio](https://my-portfolio-puce-ten-71.vercel.app) · [Repositories](https://github.com/Daniel419797?tab=repositories)
+[Portfolio](https://my-portfolio-puce-ten-71.vercel.app) | [LinkedIn](https://www.linkedin.com/in/daniel-praise-422939275/) | [Email](mailto:praisedaniel979@gmail.com) | [Repositories](https://github.com/Daniel419797?tab=repositories)
 
-</div>
+## Focus
 
-## About me
+- Full-stack web applications and APIs
+- Backend architecture, databases and background processing
+- Web3 products, blockchain verification and security tooling
+- AI-enabled products, automation and developer tools
 
-I build web products, backend systems, Web3 tools and AI-enabled software. I like working across the whole process, from architecture and implementation to testing and deployment.
+## Selected work
 
-A lot of my work comes from building real products, client projects and experiments that I want to push beyond the prototype stage.
-
-## What I build
-
-- **Full-stack platforms:** web apps, marketplaces, APIs, realtime features and background jobs.
-- **Web3:** blockchain verification, smart contracts and security tools.
-- **AI systems:** personal assistants, automation, ML experiments and intelligent product features.
-- **Developer tools:** internal tooling, testing workflows and engineering automation.
-
-## Featured projects
-
-| Project | What it is | Stack | Links |
+| Project | Summary | Stack | Links |
 | --- | --- | --- | --- |
-| **NexusForge** | A multi-tenant platform with plugins, realtime features, MFA and deployment tooling. | Next.js, React, TypeScript, Tailwind | [Repo](https://github.com/Daniel419797/NexusForge) · [Live](https://nexus-forge-eight.vercel.app) |
-| **Ethereum DeFi Risk Radar** | A desktop and CLI tool for researching DeFi protocols, verified Solidity code and security risks. | TypeScript, Ethereum, Solidity | [Repo](https://github.com/Daniel419797/ethereum-defi-risk-radar-desktop) |
-| **CartNest** | A multi-vendor e-commerce platform for Nigerian businesses. | Next.js, Fastify, PostgreSQL, Prisma, Redis | [Repo](https://github.com/Daniel419797/cartnest) |
-| **GreenAfrica RVM** | A reverse vending system for PET collection, recycling rewards and on-chain verification. | Next.js, React Native, FastAPI, OpenCV, Algorand | [Repo](https://github.com/Daniel419797/GreenAfrica-RVM) |
-| **Medfinet** | A child-health continuity platform for caregivers, health workers and administrators. | Next.js, TypeScript, Supabase, PostgreSQL | [Frontend](https://github.com/Daniel419797/medfinet_frontend) · [Backend](https://github.com/Daniel419797/medfinet_backend) · [Live](https://medfinet-frontend.vercel.app) |
-| **AeroDesk** | An airline reservation and flight operations interface. | React, TypeScript, Vite | [Repo](https://github.com/Daniel419797/Aero_desk) · [Live](https://aero-desk-one.vercel.app) |
-| **Friday / Second Brain** | A voice-first personal assistant built in Python with local and cloud AI backends. | Python, realtime audio, AI APIs | [Repo](https://github.com/Daniel419797/second-brain) · [Live](https://second-brain-web-xi.vercel.app) |
+| **NexusForge** | Multi-tenant platform control plane with plugins, scoped APIs, MFA, realtime features and deployment tooling. | Next.js, TypeScript, React, TanStack Query, Zustand | [Repository](https://github.com/Daniel419797/NexusForge) | [Live](https://nexus-forge-eight.vercel.app) |
+| **CartNest** | Multi-vendor e-commerce platform for Nigerian businesses with vendor onboarding, catalog, inventory, checkout, logistics and admin workflows. | Next.js, Fastify, TypeScript, PostgreSQL, Prisma, Redis, BullMQ | [Repository](https://github.com/Daniel419797/cartnest) | [Live](https://cartnest-jade.vercel.app/) |
+| **Ethereum DeFi Risk Radar** | Desktop and CLI security research tool for protocol discovery, verified Solidity analysis, audit intelligence and risk review. | TypeScript, Electron, Ethereum, Solidity | [Repository](https://github.com/Daniel419797/ethereum-defi-risk-radar-desktop) |
+| **GreenAfrica RVM** | Reverse vending platform for PET collection, recycling rewards, computer-vision verification and blockchain records. | Next.js, React Native, FastAPI, OpenCV, Algorand | [Repository](https://github.com/Daniel419797/GreenAfrica-RVM) |
+| **Medfinet** | Child-health continuity platform for caregivers, health workers and administrators with offline-aware workflows and NFC support. | Next.js, TypeScript, Supabase, PostgreSQL | [Frontend](https://github.com/Daniel419797/medfinet_frontend) | [Backend](https://github.com/Daniel419797/medfinet_backend) | [Live](https://medfinet-frontend.vercel.app) |
+| **AeroDesk** | Airline reservation and flight operations interface with routed dashboards and operational views. | React, TypeScript, Vite | [Repository](https://github.com/Daniel419797/Aero_desk) | [Live](https://aero-desk-one.vercel.app) |
 
-## Current experiments
+### More work
 
-- **SYNC:** a live accompaniment system that listens to a performer and adapts the backing music in real time.
-- **CRI8 Motion Studio:** a code-driven motion graphics, compositing, 3D, VFX and audio production tool.
-- **AI-assisted engineering:** ways to use coding agents while still keeping testing, review and deployment checks in the workflow.
+[AgentPay Control](https://github.com/Daniel419797/agentpay-control) | [Second Brain](https://github.com/Daniel419797/second-brain) | [University Portal](https://github.com/Daniel419797/university-portal) | [Glide Workflow Platform](https://github.com/Daniel419797/Glide-frontend) | [Campus Lost & Found](https://github.com/Daniel419797/lost-and-found)
 
-## Tech I use
+## Current work
 
-<div align="center">
+**SYNC**  
+A real-time adaptive accompaniment system that listens to a live performer and adjusts the backing music as the performance changes.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
+**CRI8 Motion Studio**  
+A code-driven motion production tool covering animation, compositing, 3D, VFX, audio and rendering workflows.
 
-</div>
+## Technical stack
 
-## GitHub
+**Languages:** TypeScript, JavaScript, Python, SQL, Solidity  
+**Frontend:** React, Next.js, Tailwind CSS, React Native  
+**Backend:** Node.js, Fastify, Express, FastAPI  
+**Data:** PostgreSQL, Prisma, Redis, Supabase, MongoDB  
+**Web3:** Ethereum, Algorand, Hedera, Cardano  
+**Testing:** Playwright, Vitest, Jest  
+**Tools and deployment:** Git, GitHub Actions, Docker, Vercel, Render
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Daniel419797&show_icons=true&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Daniel419797&show_icons=true&hide_border=true&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daniel419797&show_icons=true&hide_border=true" alt="Daniel's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel419797&layout=compact&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel419797&layout=compact&hide_border=true&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel419797&layout=compact&hide_border=true" alt="Top languages" />
-  </picture>
-</div>
+## Background
+
+- **Education:** B.Sc. Computer Science, Federal University of Petroleum Resources, Effurun. Final year.
+- **DYEN training:** Six-month training programme beginning June 2022.
+- **DYEN internship:** Ten-month web development internship beginning May 2025, working on responsive interfaces, API-driven workflows and website maintenance.
+
+## Contact
+
+- [Portfolio](https://my-portfolio-puce-ten-71.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/daniel-praise-422939275/)
+- [Email](mailto:praisedaniel979@gmail.com)
