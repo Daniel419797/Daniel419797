@@ -16,7 +16,14 @@ I build software across **full-stack web engineering, Web3, AI-assisted systems,
 
 My work spans marketplaces, multi-tenant platforms, blockchain-backed verification, defensive security tooling, health technology and personal AI systems.
 
-## Selected work
+## What I build
+
+- **Full-stack platforms** — production-oriented web applications, marketplaces, multi-tenant systems, APIs, realtime features and background workers.
+- **Web3 systems** — blockchain-backed verification, smart-contract/security tooling and systems where public verifiability adds practical value.
+- **AI systems** — personal AI, intelligent product features, automation and hybrid ML/DSP workflows.
+- **Developer tools** — engineering infrastructure, workflow automation, testing/evidence systems and tools that make complex software easier to build and operate.
+
+## Featured projects
 
 | Project | What it does | Core stack | Links |
 | --- | --- | --- | --- |
@@ -26,6 +33,13 @@ My work spans marketplaces, multi-tenant platforms, blockchain-backed verificati
 | **CartNest** | Multi-vendor e-commerce marketplace for Nigerian businesses with vendor, KYC, catalog, inventory, checkout, payments, logistics and operations workflows. | Next.js, Fastify, TypeScript, PostgreSQL, Prisma, Redis, BullMQ | [Repository](https://github.com/Daniel419797/cartnest) |
 | **Friday / Second Brain** | Windows-first voice-activated personal AI assistant with modular speech, LLM and automation backends. | Python, realtime audio, local/cloud AI | [Repository](https://github.com/Daniel419797/second-brain) · [Web](https://second-brain-web-xi.vercel.app) |
 | **Medfinet** | Pre-production child-health continuity platform for caregivers, health workers and administrators, including offline-aware field workflows and NFC flows. | Next.js, TypeScript, Supabase, PostgreSQL, PWA/NFC | [Frontend](https://github.com/Daniel419797/medfinet_frontend) · [Backend](https://github.com/Daniel419797/medfinet_backend) · [Live](https://medfinet-frontend.vercel.app) |
+| **AeroDesk** | Airline reservation and flight-operations management interface. | React, TypeScript, Vite | [Repository](https://github.com/Daniel419797/Aero_desk) · [Live](https://aero-desk-one.vercel.app) |
+
+## Current experiments
+
+- **SYNC** — a real-time adaptive musical accompaniment system designed to follow a live performer, combining DSP/classical signal processing, specialized ML, score following and deterministic musical control.
+- **Motion / creative tooling** — CRI8 Motion Studio, a code-driven environment for motion design, compositing, 3D/VFX, audio, rendering and repeatable campaign production.
+- **AI-assisted engineering** — evidence-driven workflows, agent-assisted implementation, automated validation and tooling for making AI-generated engineering work more reliable.
 
 ## Engineering stack
 
