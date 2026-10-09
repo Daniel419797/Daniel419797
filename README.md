@@ -1,47 +1,45 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Daniel Praise — Full-Stack, Web3 and AI Systems Engineer" />
-</div>
 
-<div align="center">
-  <a href="https://my-portfolio-puce-ten-71.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/Daniel419797?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <a href="https://github.com/Daniel419797?tab=followers"><img src="https://img.shields.io/github/followers/Daniel419797?style=for-the-badge&logo=github&label=FOLLOW" alt="Follow on GitHub" /></a>
-</div>
+# Hi, I'm Daniel
 
-<br />
+**Full-Stack Developer | Web3 | AI Systems | Product Engineering**
+
+[Portfolio](https://my-portfolio-puce-ten-71.vercel.app) · [Repositories](https://github.com/Daniel419797?tab=repositories)
+
+</div>
 
 ## About me
 
-I build software across **full-stack web engineering, Web3, AI-assisted systems, developer tooling and product infrastructure**. I care about systems that are useful beyond a demo: clear architecture, security boundaries, testing, deployment, observability and maintainable code.
+I build web products, backend systems, Web3 tools and AI-enabled software. I like working across the whole process, from architecture and implementation to testing and deployment.
 
-My work spans marketplaces, multi-tenant platforms, blockchain-backed verification, defensive security tooling, health technology and personal AI systems.
+A lot of my work comes from building real products, client projects and experiments that I want to push beyond the prototype stage.
 
 ## What I build
 
-- **Full-stack platforms** — production-oriented web applications, marketplaces, multi-tenant systems, APIs, realtime features and background workers.
-- **Web3 systems** — blockchain-backed verification, smart-contract/security tooling and systems where public verifiability adds practical value.
-- **AI systems** — personal AI, intelligent product features, automation and hybrid ML/DSP workflows.
-- **Developer tools** — engineering infrastructure, workflow automation, testing/evidence systems and tools that make complex software easier to build and operate.
+- **Full-stack platforms:** web apps, marketplaces, APIs, realtime features and background jobs.
+- **Web3:** blockchain verification, smart contracts and security tools.
+- **AI systems:** personal assistants, automation, ML experiments and intelligent product features.
+- **Developer tools:** internal tooling, testing workflows and engineering automation.
 
 ## Featured projects
 
-| Project | What it does | Core stack | Links |
+| Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
-| **NexusForge** | Extensible web control plane for a multi-tenant platform, with production-oriented frontend architecture and a dedicated backend. | Next.js, React, TypeScript, Tailwind, TanStack Query, Zustand | [Repository](https://github.com/Daniel419797/NexusForge) · [Live](https://nexus-forge-eight.vercel.app) |
-| **GreenAfrica RVM** | Reverse-vending ecosystem that rewards PET recycling with Green Points redeemable for airtime/data, with tamper-evident blockchain records. | Next.js, React Native, FastAPI, OpenCV, Algorand | [Repository](https://github.com/Daniel419797/GreenAfrica-RVM) |
-| **Ethereum DeFi Risk Radar** | Defensive Ethereum research application for protocol discovery, verified-source analysis, audit intelligence, economic simulation and evidence-driven security review. | TypeScript, Ethereum, Solidity analysis, Desktop + CLI | [Repository](https://github.com/Daniel419797/ethereum-defi-risk-radar-desktop) |
-| **CartNest** | Multi-vendor e-commerce marketplace for Nigerian businesses with vendor, KYC, catalog, inventory, checkout, payments, logistics and operations workflows. | Next.js, Fastify, TypeScript, PostgreSQL, Prisma, Redis, BullMQ | [Repository](https://github.com/Daniel419797/cartnest) |
-| **Friday / Second Brain** | Windows-first voice-activated personal AI assistant with modular speech, LLM and automation backends. | Python, realtime audio, local/cloud AI | [Repository](https://github.com/Daniel419797/second-brain) · [Web](https://second-brain-web-xi.vercel.app) |
-| **Medfinet** | Pre-production child-health continuity platform for caregivers, health workers and administrators, including offline-aware field workflows and NFC flows. | Next.js, TypeScript, Supabase, PostgreSQL, PWA/NFC | [Frontend](https://github.com/Daniel419797/medfinet_frontend) · [Backend](https://github.com/Daniel419797/medfinet_backend) · [Live](https://medfinet-frontend.vercel.app) |
-| **AeroDesk** | Airline reservation and flight-operations management interface. | React, TypeScript, Vite | [Repository](https://github.com/Daniel419797/Aero_desk) · [Live](https://aero-desk-one.vercel.app) |
+| **NexusForge** | A multi-tenant platform with plugins, realtime features, MFA and deployment tooling. | Next.js, React, TypeScript, Tailwind | [Repo](https://github.com/Daniel419797/NexusForge) · [Live](https://nexus-forge-eight.vercel.app) |
+| **Ethereum DeFi Risk Radar** | A desktop and CLI tool for researching DeFi protocols, verified Solidity code and security risks. | TypeScript, Ethereum, Solidity | [Repo](https://github.com/Daniel419797/ethereum-defi-risk-radar-desktop) |
+| **CartNest** | A multi-vendor e-commerce platform for Nigerian businesses. | Next.js, Fastify, PostgreSQL, Prisma, Redis | [Repo](https://github.com/Daniel419797/cartnest) |
+| **GreenAfrica RVM** | A reverse vending system for PET collection, recycling rewards and on-chain verification. | Next.js, React Native, FastAPI, OpenCV, Algorand | [Repo](https://github.com/Daniel419797/GreenAfrica-RVM) |
+| **Medfinet** | A child-health continuity platform for caregivers, health workers and administrators. | Next.js, TypeScript, Supabase, PostgreSQL | [Frontend](https://github.com/Daniel419797/medfinet_frontend) · [Backend](https://github.com/Daniel419797/medfinet_backend) · [Live](https://medfinet-frontend.vercel.app) |
+| **AeroDesk** | An airline reservation and flight operations interface. | React, TypeScript, Vite | [Repo](https://github.com/Daniel419797/Aero_desk) · [Live](https://aero-desk-one.vercel.app) |
+| **Friday / Second Brain** | A voice-first personal assistant built in Python with local and cloud AI backends. | Python, realtime audio, AI APIs | [Repo](https://github.com/Daniel419797/second-brain) · [Live](https://second-brain-web-xi.vercel.app) |
 
 ## Current experiments
 
-- **SYNC** — a real-time adaptive musical accompaniment system designed to follow a live performer, combining DSP/classical signal processing, specialized ML, score following and deterministic musical control.
-- **Motion / creative tooling** — CRI8 Motion Studio, a code-driven environment for motion design, compositing, 3D/VFX, audio, rendering and repeatable campaign production.
-- **AI-assisted engineering** — evidence-driven workflows, agent-assisted implementation, automated validation and tooling for making AI-generated engineering work more reliable.
+- **SYNC:** a live accompaniment system that listens to a performer and adapts the backing music in real time.
+- **CRI8 Motion Studio:** a code-driven motion graphics, compositing, 3D, VFX and audio production tool.
+- **AI-assisted engineering:** ways to use coding agents while still keeping testing, review and deployment checks in the workflow.
 
-## Engineering stack
+## Tech I use
 
 <div align="center">
 
@@ -63,33 +61,17 @@ My work spans marketplaces, multi-tenant platforms, blockchain-backed verificati
 
 </div>
 
-## What I focus on
-
-- Designing maintainable full-stack systems instead of isolated screens.
-- Security-conscious authentication, authorization and sensitive-action flows.
-- Multi-tenant architecture, APIs, realtime systems and background workers.
-- Blockchain where verifiability or programmable settlement adds real value.
-- AI-assisted engineering, automation and intelligent product experiences.
-- Shipping with tests, deployment evidence and operational checks.
-
-## GitHub overview
+## GitHub
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Daniel419797&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Daniel419797&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daniel419797&show_icons=true&hide_border=true&rank_icon=github" alt="Daniel's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Daniel419797&show_icons=true&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Daniel419797&show_icons=true&hide_border=true&theme=default" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daniel419797&show_icons=true&hide_border=true" alt="Daniel's GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel419797&layout=compact&hide_border=true&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel419797&layout=compact&hide_border=true&theme=default" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel419797&layout=compact&hide_border=true" alt="Top languages" />
   </picture>
-</div>
-
----
-
-<div align="center">
-  <b>Build useful systems. Validate them. Ship them.</b><br />
-  <sub>More projects and working demos are available through the portfolio and repositories above.</sub>
 </div>
