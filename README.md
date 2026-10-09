@@ -1,6 +1,6 @@
 # Daniel Praise
 
-**Full-Stack Developer | Python | Web3 | AI Systems**
+**Full-Stack Developer | Python | Web3**
 
 Final-year Computer Science student at FUPRE. I build web applications, backend services, developer tools and blockchain products. I work mainly with TypeScript and Python and I am comfortable taking a product from architecture and implementation through testing and deployment.
 
@@ -11,18 +11,18 @@ Final-year Computer Science student at FUPRE. I build web applications, backend 
 - Full-stack web applications and APIs
 - Backend architecture, databases and background processing
 - Web3 products, blockchain verification and security tooling
-- AI-enabled products, automation and developer tools
+- AI integrations, automation and developer tools
 
 ## Selected work
 
 | Project | Summary | Stack | Links |
 | --- | --- | --- | --- |
-| **NexusForge** | Multi-tenant platform control plane with plugins, scoped APIs, MFA, realtime features and deployment tooling. | Next.js, TypeScript, React, TanStack Query, Zustand | [Repository](https://github.com/Daniel419797/NexusForge) | [Live](https://nexus-forge-eight.vercel.app) |
-| **CartNest** | Multi-vendor e-commerce platform for Nigerian businesses with vendor onboarding, catalog, inventory, checkout, logistics and admin workflows. | Next.js, Fastify, TypeScript, PostgreSQL, Prisma, Redis, BullMQ | [Repository](https://github.com/Daniel419797/cartnest) | [Live](https://cartnest-jade.vercel.app/) |
+| **NexusForge** | Multi-tenant platform control plane with plugins, scoped APIs, MFA, realtime features and deployment tooling. | Next.js, TypeScript, React, TanStack Query, Zustand | [Repository](https://github.com/Daniel419797/NexusForge)<br>[Live](https://nexus-forge-eight.vercel.app) |
+| **CartNest** | Multi-vendor e-commerce platform for Nigerian businesses with vendor onboarding, catalog, inventory, checkout, logistics and admin workflows. | Next.js, Fastify, TypeScript, PostgreSQL, Prisma, Redis, BullMQ | [Repository](https://github.com/Daniel419797/cartnest)<br>[Live](https://cartnest-jade.vercel.app/) |
 | **Ethereum DeFi Risk Radar** | Desktop and CLI security research tool for protocol discovery, verified Solidity analysis, audit intelligence and risk review. | TypeScript, Electron, Ethereum, Solidity | [Repository](https://github.com/Daniel419797/ethereum-defi-risk-radar-desktop) |
-| **GreenAfrica RVM** | Reverse vending platform for PET collection, recycling rewards, computer-vision verification and blockchain records. | Next.js, React Native, FastAPI, OpenCV, Algorand | [Repository](https://github.com/Daniel419797/GreenAfrica-RVM) |
-| **Medfinet** | Child-health continuity platform for caregivers, health workers and administrators with offline-aware workflows and NFC support. | Next.js, TypeScript, Supabase, PostgreSQL | [Frontend](https://github.com/Daniel419797/medfinet_frontend) | [Backend](https://github.com/Daniel419797/medfinet_backend) | [Live](https://medfinet-frontend.vercel.app) |
-| **AeroDesk** | Airline reservation and flight operations interface with routed dashboards and operational views. | React, TypeScript, Vite | [Repository](https://github.com/Daniel419797/Aero_desk) | [Live](https://aero-desk-one.vercel.app) |
+| **GreenAfrica RVM** | Reverse vending platform for PET collection, recycling rewards, computer vision verification and blockchain records. | Next.js, React Native, FastAPI, OpenCV, Algorand | [Repository](https://github.com/Daniel419797/GreenAfrica-RVM) |
+| **Medfinet** | Child-health continuity platform for caregivers, health workers and administrators with offline-aware workflows and NFC support. | Next.js, TypeScript, Supabase, PostgreSQL | [Frontend](https://github.com/Daniel419797/medfinet_frontend)<br>[Backend](https://github.com/Daniel419797/medfinet_backend)<br>[Live](https://medfinet-frontend.vercel.app) |
+| **AeroDesk** | Airline reservation and flight operations interface with routed dashboards and operational views. | React, TypeScript, Vite | [Repository](https://github.com/Daniel419797/Aero_desk)<br>[Live](https://aero-desk-one.vercel.app) |
 
 ### More work
 
