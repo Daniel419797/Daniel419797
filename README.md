@@ -19,7 +19,7 @@ I design, build and verify custom web applications, business websites, backend A
 - [Backend API and systems integration](https://daniel-praise.vercel.app/services/backend-api-integration)
 - [Start an enquiry](https://daniel-praise.vercel.app/?view=client#contact)
 
-I work remotely with founders, businesses and engineering teams. My public case studies distinguish completed implementation, prototypes and outstanding provider verification.
+Based in Warri, Delta State, Nigeria, I work with local and international founders, businesses and engineering teams. I provide full-stack software development, React and Next.js web development, backend API integration, and Web3 engineering services remotely or for suitable local projects. My public case studies distinguish completed implementation, prototypes and outstanding provider verification.
 
 ## Engineering articles
 
