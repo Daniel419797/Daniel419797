@@ -1,15 +1,34 @@
 # Daniel Praise
 
-**Full-Stack Developer | Python | Web3**
+**Full-Stack Software Engineer | TypeScript, React, Next.js, Python, PostgreSQL**
 
-I build web applications, backend services, developer tools and blockchain products. I work mainly with TypeScript and Python, and I am comfortable taking a product from architecture and implementation through testing and deployment.
+I design, build and verify custom web applications, business websites, backend APIs and developer tools. I focus on useful product workflows, secure data access and well-tested releases.
 
 <p align="left">
   <a href="https://github.com/Daniel419797"><img src="https://img.shields.io/badge/GitHub-Daniel419797-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/daniel-praise-422939275/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Praise-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:praisedaniel979@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://my-portfolio-puce-ten-71.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://daniel-praise.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+## Work with me
+
+- [Portfolio and case studies](https://daniel-praise.vercel.app)
+- [Business website development](https://daniel-praise.vercel.app/services/business-website-development)
+- [Custom React and Next.js web applications](https://daniel-praise.vercel.app/services/custom-web-app-development)
+- [Backend API and systems integration](https://daniel-praise.vercel.app/services/backend-api-integration)
+- [Start an enquiry](https://daniel-praise.vercel.app/?view=client#contact)
+
+I work remotely with founders, businesses and engineering teams. My public case studies distinguish completed implementation, prototypes and outstanding provider verification.
+
+## Engineering articles
+
+I document decisions behind real projects, rather than only listing technologies.
+
+- [HTTP-only cookies and server-side authorization in Next.js](https://daniel-praise.vercel.app/articles/secure-nextjs-sessions-and-api-authorization)
+- [PostgreSQL, Redis and background jobs for commerce](https://daniel-praise.vercel.app/articles/postgresql-background-jobs-commerce-architecture)
+- [Mobile UX checklist for a property website redesign](https://daniel-praise.vercel.app/articles/real-estate-website-redesign-ux-checklist)
+- [Reliable enquiry forms with Neon and Web3Forms](https://daniel-praise.vercel.app/articles/reliable-website-enquiry-form-neon-web3forms)
 
 ## Focus
 
